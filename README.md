@@ -1,4 +1,4 @@
-API Verdulería - Flask + Swagger
+API Verdulería + Flask + Swagger
 
 Esta API la desarrolle con Flask y Swagger utilizando Flasgger.
 
@@ -8,11 +8,3 @@ Utilice:
 Python
 Flask
 Flasgger (Swagger)
-
--Funcionalidades implementadas
-
--Obtener productos
-
-Endpoint:
-```http
-get/api/productos
