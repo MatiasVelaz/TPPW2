@@ -1,6 +1,6 @@
 API Verdulería - Flask + Swagger
 
-Este proyecto consiste en una API REST desarrollada con Flask y documentada con Swagger utilizando Flasgger.
+Este proyecto consiste en una API REST desarrollada con Flask y Swagger utilizando Flasgger.
 
 La aplicación simula una pequeña verdulería con productos y un carrito de compras manejado en memoria.
 
