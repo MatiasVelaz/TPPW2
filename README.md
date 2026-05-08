@@ -9,8 +9,9 @@ Python
 Flask
 Flasgger (Swagger)
 
-Funcionalidades implementadas
-Obtener productos
+-Funcionalidades implementadas
+
+-Obtener productos
 
 Endpoint:
 ```http
